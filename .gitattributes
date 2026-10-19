@@ -1,0 +1,2 @@
+*.mem filter=lfs diff=lfs merge=lfs -text
+*.mem.incomplete filter=lfs diff=lfs merge=lfs -text

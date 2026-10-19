@@ -1,0 +1,1 @@
+*** Failed to import volatility.plugins.registry.shellbags (ImportError: No module named Crypto.Hash)
